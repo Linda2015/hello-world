@@ -1,2 +1,3 @@
 # hello-world
-New Repository
+This is the test 
+Learn how to use GitHub
